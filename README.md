@@ -31,6 +31,16 @@ Por último la administración de red  es un conjunto de técnicas   para manten
 
 
 ### ARCHIVOS MULTIMEDIA SOBRE REDES
+<h1>Multimedia</h1>
+	
+	<nav>
+		
+		<ul>
+			<p> Veamos en los siguiente videos algunos conceptos basicos que debemos saber acerca de seguridad informática</p> <br>
+			
+			<li> <a href="https://www.youtube.com/watch?v=tBwoiNfuz2c">Video1</a></li> <br>
+
+			<p>Perez, Carlos.(28 de julio de 2017). 1.1 Conceptos de seguridad informática. www.youtube.com. Recuperado de: https://www.youtube.com/watch?v=tBwoiNfuz2c </p>
 https://www.youtube.com/watch?v=huN-3rOrKSA
 
 
