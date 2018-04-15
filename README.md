@@ -30,11 +30,10 @@ La administración de datos de redes se apoya en numeroso software que ayudan al
 Por último la administración de red  es un conjunto de técnicas   para mantener una red operativa eficiente,segura,y constantemente monitoreada y con una planeación adecuada y propiamente documentada para mejorar la continuidad en la operación de la red con mecanismos adecuados para la solución de problemas y suministro de recursos logrando hacer que la red este más segura protegiéndola  en contra del acceso no autorizado haciendo imposible que personas ajenas pueden ver o leer la información que circula en esta red
 
 
-You can use the [editor on GitHub](https://github.com/juanleon124/OV-Iadministracion-de-redes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### ARCHIVOS MULTIMEDIA SOBRE REDES
+https://www.youtube.com/watch?v=huN-3rOrKSA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
