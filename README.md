@@ -1,5 +1,16 @@
 ## BIENVENIDO A ESTA PAGINA ACA ENCONTRARAS TODO LO RELACIONADO CON LA ADMINISTRACION DE REDES 
 
+ADMINISTRACIÓN DE REDES
+
+La Administración de Redes es un conjunto de técnicas tendientes a mantener una red operativa, eficiente, segura, constantemente monitoreada y con una planeación adecuada y propiamente documentada.
+
+•	Mejorar la continuidad en la operación de la red con mecanismos adecuados de control y monitoreo, de resolución de problemas y de suministro de recursos.
+•	Hacer uso eficiente de la red y utilizar mejor los recursos, como, por ejemplo, el ancho de banda.
+•	Reducir costos por medio del control de gastos y de mejores mecanismos de cobro.
+•	Hacer la red más segura, protegiéndola contra el acceso no autorizado, haciendo imposible que personas ajenas puedan entender la información que circula en ella.
+•	Controlar cambios y actualizaciones en la red de modo que ocasionen las menos interrupciones posibles, en el servicio a los usuarios.
+
+
 You can use the [editor on GitHub](https://github.com/juanleon124/OV-Iadministracion-de-redes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
